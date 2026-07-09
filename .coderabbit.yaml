@@ -1,5 +1,5 @@
 reviews:
-  auto_review:
+  auto_review: true
     base_branches:
       - "help-center-task-2"
       - "help-center-base"
